@@ -8,6 +8,8 @@ Author: Andrew Munro - Sumobi
 Author URI: http://sumobi.com
 License: GPL-2.0+
 License URI: http://www.opensource.org/licenses/gpl-license.php
+Text Domain: edd-vpd
+ Domain Path: languages
 */
 
 
@@ -27,7 +29,7 @@ add_action( 'init', 'edd_vpd_textdomain' );
  * Outputs the description
  * @since 1.0.2
  */
-function edd_vpd_output_description( $key, $price, $download_id ) { 
+function edd_vpd_output_description( $key, $price, $download_id ) {
 
 	$description = isset( $price['description'] ) ? $price['description'] : null;
 	echo '<p class="edd-variable-pricing-desc">' . esc_html( $description ) . '</p>';

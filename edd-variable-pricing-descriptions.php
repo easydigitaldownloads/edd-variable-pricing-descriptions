@@ -1,15 +1,15 @@
 <?php
 /*
 Plugin Name: EDD Variable Pricing Descriptions
-Plugin URI: http://sumobi.com/store/edd-variable-pricing-descriptions/
+Plugin URI: https://easydigitaldownloads.com/downloads/edd-variable-pricing-descriptions/
 Description: Adds a description field for each variable pricing option
-Version: 1.0.2
-Author: Andrew Munro - Sumobi
-Author URI: http://sumobi.com
+Version: 1.0.3
+Author: Easy Digital Downloads
+Author URI: https://easydigitaldownloads.com
 License: GPL-2.0+
 License URI: http://www.opensource.org/licenses/gpl-license.php
 Text Domain: edd-vpd
- Domain Path: languages
+Domain Path: languages
 */
 
 

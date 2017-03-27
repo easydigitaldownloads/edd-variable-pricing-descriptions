@@ -1,10 +1,9 @@
 === EDD Variable Pricing Descriptions ===
-Contributors: sumobi
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EFUPMPEZPGW7L
+Contributors: sumobi, easydigitaldownloads
 Tags: easy digital downloads, digital downloads, e-downloads, edd, variable pricing, pricing, description
 Requires at least: 3.3
-Tested up to: 3.5.1
-Stable tag: 1.0.2
+Tested up to: 4.7.3
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -32,6 +31,9 @@ This plugin does not add any CSS styling as it simply adds the description wrapp
 2. The new field values being outputed onto the front-end
 
 == Changelog ==
+
+= 1.0.3 =
+* Tweak: Update plugin information
 
 = 1.0.2 =
 * Fix: Undefined Index PHP Notice
